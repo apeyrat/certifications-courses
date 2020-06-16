@@ -7,6 +7,7 @@
 - [AWS/Cloud Practitioner Essentials](https://aws.amazon.com/fr/training/course-descriptions/cloud-practitioner-essentials/)
 - [Cloud Academy/AWS Cloud Practitioner Certification Preparation (12h)](https://cloudacademy.com/learning-paths/cloud-academy-cloud-practitioner-certification-preparation-for-aws-180/)
 - [Cloud Academy/Fundamentals of AWS (13h)](https://cloudacademy.com/learning-paths/aws-fundamentals-1/?autoresume=true)
+- [Udemy/AWS Certified Cloud Practitioner 2020](https://www.udemy.com/course/aws-certified-cloud-practitioner/)
 - [Tutorial Dojo/AWS Certified Cloud Practitioner Practice Exams 2020](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)
 - [ExamTopics/Amazon AWS Certified Cloud Practitioner Exam](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/)
 
