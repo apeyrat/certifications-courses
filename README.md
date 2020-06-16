@@ -4,11 +4,10 @@
 
 ### AWS Certified Cloud Practitioner (CLF-C01)
 
-- [AWS Main page](https://aws.amazon.com/training/path-cloudpractitioner/)
 - [AWS/Cloud Practitioner Essentials](https://aws.amazon.com/fr/training/course-descriptions/cloud-practitioner-essentials/)
 - [Cloud Academy/AWS Certified Cloud Practitioner course](https://cloudacademy.com/learning-paths/cloud-academy-cloud-practitioner-certification-preparation-for-aws-180/)
 - [Cloud Academy/Fundamentals of AWS](https://cloudacademy.com/learning-paths/aws-fundamentals-1/?autoresume=true)
-- [Tutorial Dojo/AWS Certified Cloud Practitioner Practice Exams 2020)(https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)]
+- [Tutorial Dojo/AWS Certified Cloud Practitioner Practice Exams 2020](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)]
 - [ExamTopics/Amazon AWS Certified Cloud Practitioner Exam](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/)
 
 ### AWS Certified Solutions Architect (SAA-C02)
@@ -20,5 +19,5 @@
 
 ### AZ-900: Microsoft Azure Fundamentals
 
-- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
+- [Microsoft Learn/Azure Fundamentals (10h)](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
 - [Cloud Academy/AZ-900 Exam Preparation Microsoft Azure Fundamentals](https://cloudacademy.com/learning-paths/az-900-exam-preparation-microsoft-azure-fundamentals-524/)
