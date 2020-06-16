@@ -5,14 +5,14 @@
 ### AWS Certified Cloud Practitioner (CLF-C01)
 
 - [AWS/Cloud Practitioner Essentials](https://aws.amazon.com/fr/training/course-descriptions/cloud-practitioner-essentials/)
-- [Cloud Academy/AWS Certified Cloud Practitioner course](https://cloudacademy.com/learning-paths/cloud-academy-cloud-practitioner-certification-preparation-for-aws-180/)
-- [Cloud Academy/Fundamentals of AWS](https://cloudacademy.com/learning-paths/aws-fundamentals-1/?autoresume=true)
+- [Cloud Academy/AWS Cloud Practitioner Certification Preparation (12h)](https://cloudacademy.com/learning-paths/cloud-academy-cloud-practitioner-certification-preparation-for-aws-180/)
+- [Cloud Academy/Fundamentals of AWS (13h)](https://cloudacademy.com/learning-paths/aws-fundamentals-1/?autoresume=true)
 - [Tutorial Dojo/AWS Certified Cloud Practitioner Practice Exams 2020](https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/)]
 - [ExamTopics/Amazon AWS Certified Cloud Practitioner Exam](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/)
 
 ### AWS Certified Solutions Architect (SAA-C02)
 
-- [Cloud Academy/AWS Certified Solutions Architect](https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-saa-c02-certification-preparation-954/)
+- [Cloud Academy/AWS Certified Solutions Architect (32h)](https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-saa-c02-certification-preparation-954/)
 
 
 ## Azure
