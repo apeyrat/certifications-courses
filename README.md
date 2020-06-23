@@ -14,7 +14,7 @@
 ### AWS Certified Solutions Architect (SAA-C02)
 
 - [Cloud Academy/AWS Certified Solutions Architect (32h)](https://cloudacademy.com/learning-paths/aws-solutions-architect-associate-saa-c02-certification-preparation-954/)
-
+- [AWS/Exam Readiness: AWS Certified Solutions Architect – Associate (2h)](https://www.aws.training/Details/Curriculum?id=20685)
 
 ## Azure
 
